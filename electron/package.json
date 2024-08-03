@@ -5,7 +5,7 @@
   "homepage": ".",
   "main": "./public/electron.js",
   "engines": {
-    "node": "10.16.0"
+    "node": "10.24.1"
   },
   "dependencies": {
     "@material-ui/core": "^4.3.1",
